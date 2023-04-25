@@ -12,7 +12,7 @@ pip3 install cryptography
 git clone https://www.github.com/miladgol/padopy.git
 cd padopy/
 chmod +x padopy.py
-python padopy.py
+python3 padopy.py
 ```
 # contact me:
 Designed by MiladGol([Youtube](https://youtube.com/@miladgol) & [Github](https://github.com/miladgol))
